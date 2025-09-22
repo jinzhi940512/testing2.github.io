@@ -26,8 +26,8 @@ $\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.
 - **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree.
 
 ## Publications
-
-#{% include_relative _includes/publications.html %}
+[//]: <> (This is also a comment.)
+[//]: <> ({% include_relative _includes/publications.html %})
 
 ## Notes and Presentations
 
