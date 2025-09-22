@@ -27,7 +27,7 @@ $\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.
 
 ## Publications
 
-{% include_relative _includes/publications.html %}
+#{% include_relative _includes/publications.html %}
 
 ## Notes and Presentations
 
