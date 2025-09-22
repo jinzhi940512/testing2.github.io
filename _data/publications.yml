@@ -1,5 +1,8 @@
 main:
 
+  - title: Mars
+    author: Tinlap
+
   - title: Descartes' rule of signs for finite fields
     authors: Gary Fishman
     notes: in preparation
